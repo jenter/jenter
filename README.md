@@ -1,1 +1,1 @@
-<img src="./hi.gif">
+<img src="./portrait-8bit.png">
